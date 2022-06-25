@@ -1,4 +1,4 @@
-###Beans (DTO) validation in Spring Boot using starter-validation
+### Beans (DTO) validation in Spring Boot using starter-validation
 
 __Dependencies__
 
